@@ -1,4 +1,4 @@
-package com.ljheee.thrift.serviceImpl;
+package com.ljheee.thrift.service.impl;
 
 import com.ljheee.thrift.service.QueryService;
 import org.apache.thrift.TException;
